@@ -37,8 +37,6 @@
 
 [![GitHub Contribution Graph](https://ghchart.rshah.org/doanbactam)](https://github.com/doanbactam)
 
-<img src="https://github-readme-stats.vercel.app/api?username=doanbactam&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=7CFC00&icon_color=7CFC00&text_color=C9D1D9" width="420"/>
-
 ---
 
 ## Connect
