@@ -2,6 +2,7 @@
 
 **Developer building tools at the intersection of AI and developer experience.**
 
+[![Tokscale Stats](https://tokscale.ai/api/embed/doanbactam/svg?theme=light)](https://tokscale.ai/u/doanbactam)
 > *"The best AI tools are the ones that make themselves invisible.*
 > *I build the tools that help measure that invisibility."*
 
